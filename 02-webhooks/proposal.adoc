@@ -3,7 +3,6 @@
 Author:: https://github.com/xoebus[Chris Brown]
 Depends on::
 * https://github.com/concourse/skunkworks/blob/master/01-team-configuration/proposal.adoc[01 - Team Configuration]
-* https://github.com/concourse/skunkworks/blob/master/01-team-configuration/proposal.adoc[01 - Team Configuration]
 Last Modified:: {docdatetime}
 
 == Introduction
