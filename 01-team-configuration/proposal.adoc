@@ -1,0 +1,9 @@
+= Team Configuration
+
+Author:: https://github.com/xoebus[Chris Brown]
+Depends on:: None
+Last Modified:: {docdatetime}
+
+== Introduction
+
+== Proposal
