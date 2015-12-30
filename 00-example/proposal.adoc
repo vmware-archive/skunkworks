@@ -1,0 +1,14 @@
+= Webhooks
+
+Author:: https://github.com/USERNAME[Firstname Lastname]
+Depends on::
+* https://github.com/concourse/skunkworks/blob/master/00-example/proposal.adoc[00 - Example]
+Last Modified:: {docdatetime}
+
+== Introduction
+
+Why do we need this?
+
+== Proposal
+
+What should we do?
