@@ -5,8 +5,6 @@ Depends on::
 * https://github.com/concourse/skunkworks/blob/master/00-example/proposal.adoc[00 - Example]
 Last Modified:: {docdatetime}
 
-:toc:
-
 == Introduction
 
 Why do we need this?
