@@ -11,6 +11,7 @@ digraph G {
 
     "Team YAML Configuration" -> "Teams"
     "Webhooks" -> "Team YAML Configuration"
+    "Apps Manager API" -> "API V2"
     "Apps Manager API" -> "Webhooks"
   }
 
